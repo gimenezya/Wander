@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "676856732776",
+    "firebase_url": "https://wander-4a751.firebaseio.com",
+    "project_id": "wander-4a751",
+    "storage_bucket": "wander-4a751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676856732776:android:2e991c75a81b0fde",
+        "android_client_info": {
+          "package_name": "chani.wander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676856732776-vhin7so297p78l6kut5kefuk9s78t40s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chani.wander",
+            "certificate_hash": "26edb6cc5ba6fa56543f517cba69344a27208c37"
+          }
+        },
+        {
+          "client_id": "676856732776-nokgp0n9ch3q38ssga685ses33e4s4sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxECZVd0xQAP_4TQ17WENEzv7oF-8ddBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676856732776-nokgp0n9ch3q38ssga685ses33e4s4sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
