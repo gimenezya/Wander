@@ -1,5 +1,19 @@
 <resources>
     <string name="app_name">Wander</string>
-    <string name="facebook_app_id">856308284517378</string>
+    <string name="facebook_app_id">1904952406412329</string>
+    <string name="fb_login_protocol_scheme">fb1904952406412329</string>
     <string name="web_client_id">676856732776-vhin7so297p78l6kut5kefuk9s78t40s.apps.googleusercontent.com</string>
+
+    <string name="hubo_error">Hubo un error.</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="enlazar_cuentas">Enlazar Cuentas/Desenlazar Cuentas</string>
+    <string name="boton_iniciar_sesion">Iniciar Sesión</string>
+
+    <string name="nombre">Nombre:</string>
+    <string name="proveedor">Proveedor:</string>
+    <string name="has_enlazado_todas_tus_cuentas">Has enlazado todas tus cuentas.</string>
+    <string name="desenlazar_fb">Desenlazar Facebook</string>
+    <string name="desenlazar_google">Desenlazar Google</string>
+    <string name="desenlazar_twitter">Desenlazar Twitter</string>
+    <string name="desenlazar_cuentas">Desenlazar Cuentas</string>
 </resources>
